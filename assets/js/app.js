@@ -22,7 +22,7 @@ var btn = document.querySelector(".form__btn");
 let cityInput = "London";
 
 /// Get date /----------------------------------------------------------------------------------------------------------------
-const date = moment().format("h:mm a - dddd MMM YY");
+const date = moment().format("HH:mm - dddd Do MMM YY");
 dateOutput.innerText = date;
 // console.log(date);
 
