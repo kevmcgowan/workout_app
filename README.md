@@ -37,7 +37,7 @@ Deployment Live URL:
 URL: https://n-i-n-a.github.io/Workout-App/
 Screenshots :
 
-
+![](assets/images/app-screenshot.png)
 
 License
 
